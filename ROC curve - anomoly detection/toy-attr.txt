@@ -1,0 +1,4 @@
+id    ID
+x     continuous
+y     continuous
+class y n
